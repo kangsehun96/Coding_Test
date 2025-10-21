@@ -1,13 +1,14 @@
 # Coding_Test
 
-# Level 0 문제 풀이 정리
+# Level 1 - Q10 문제 풀이 정리
 
-## 34207. 문자 출력
-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340207
-- 문제 : 출력 예시와 같이 출력되도록 코드 완성
+## 12933. 하샤드 수
+- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12947
+- 문제 : 양의 정수 x가 하샤드 수이려면, x의 자릿수의 합으로 x가 나누어져야 한다.
+- 하샤드 수인지 아닌지 검사
 
-- 출력 예시
-- 3
-- 2
-- 1
-- Let's go!
+- 입출력 예시
+- 입력
+- 10
+- 출력
+- true
