@@ -1,13 +1,14 @@
 # Coding_Test
 
-# Level 0 문제 풀이 정리
+# Level 1 - Q7 문자열을 정수로 바꾸기
 
-## 34207. 문자 출력
-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340207
-- 문제 : 출력 예시와 같이 출력되도록 코드 완성
+## 12925. 문자열을 정수로 바꾸기
+- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12925
+- 문제 : 문자열 s를 숫자로 변환한 결과 반환
 
-- 출력 예시
-- 3
-- 2
-- 1
-- Let's go!
+- 입출력 예시
+- 입력
+- "-1234"
+- 출력
+- -1234
+
