@@ -1,13 +1,13 @@
 # Coding_Test
 
-# Level 0 문제 풀이 정리
+# Level 1 - Q3 문제 풀이 정리
 
-## 34207. 문자 출력
-- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340207
-- 문제 : 출력 예시와 같이 출력되도록 코드 완성
+## 12937. 짝수와 홀수
+- 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12937
+- 문제 : num이 짝수일 경우 "Even" 홀수 일경우 "Odd" 반환
 
-- 출력 예시
+- 입출력 예시
+- 입력
 - 3
-- 2
-- 1
-- Let's go!
+- 출력
+- "Odd"
