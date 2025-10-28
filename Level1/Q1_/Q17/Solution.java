@@ -1,4 +1,4 @@
-package Level1.Q17;
+package Level1.Q1_.Q17;
 
 public class Solution {
     public String solution(String[] seoul) {

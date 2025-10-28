@@ -1,4 +1,4 @@
-package Level1.Q22;
+package Level1.Q2_.Q22;
 
 public class Solution {
     public int solution(int[] a, int[] b) {

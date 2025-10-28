@@ -1,4 +1,4 @@
-package Level1.Q23;
+package Level1.Q2_.Q23;
 
 public class Solution {
     public String solution(int n) {

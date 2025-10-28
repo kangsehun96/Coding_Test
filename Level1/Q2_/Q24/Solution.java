@@ -1,4 +1,4 @@
-package Level1.Q24;
+package Level1.Q2_.Q24;
 
 public class Solution {
     public int solution(int left, int right) {

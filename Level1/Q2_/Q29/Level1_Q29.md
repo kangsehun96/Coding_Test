@@ -4,5 +4,5 @@
 
 ## 12969. 직사각형 별찍기
 - 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/12969
-- 문제 : 가로 n, 세로 m인 직사각형 형태 출력
+- 문제 : 길이 n 세로 m인 직사각형 형태 출력
 

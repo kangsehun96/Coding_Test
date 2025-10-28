@@ -1,4 +1,4 @@
-package Level1.Q20;
+package Level1.Q2_.Q20;
 
 public class Solution {
     public String solution(String s) {

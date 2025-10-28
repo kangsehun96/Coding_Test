@@ -1,4 +1,4 @@
-package Level1.Q10;
+package Level1.Q1_.Q10;
 
 public class Solution {
     // 하샤드 수인지 확인하는 메서드

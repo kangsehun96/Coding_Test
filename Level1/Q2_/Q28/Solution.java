@@ -12,7 +12,7 @@ public class Solution {
             // 2. 열 순회
             for (int j = 0; j < cols; j++) {
                 // 3. 해당 위치에 더한 원소 넣기
-                answer[i][j] = arr1[i][j] + arr1[i][j];
+                answer[i][j] = arr1[i][j] + arr2[i][j];
             }
         }
         return answer;

@@ -1,4 +1,4 @@
-package Level1.Q11;
+package Level1.Q1_.Q11;
 
 public class Solution {
     public long solution(long n) {

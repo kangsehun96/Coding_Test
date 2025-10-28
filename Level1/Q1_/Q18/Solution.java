@@ -1,4 +1,4 @@
-package Level1.Q18;
+package Level1.Q1_.Q18;
 
 public class Solution {
     public int solution(int num) {
